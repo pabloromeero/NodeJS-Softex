@@ -1,2 +1,2 @@
-# NodeJS-softex
- Resolução de exercícios de NodeJS Softex
+# NodeJS Softex Pernambuco
+ Resolução de exercícios de NodeJS do FAP Softex.
