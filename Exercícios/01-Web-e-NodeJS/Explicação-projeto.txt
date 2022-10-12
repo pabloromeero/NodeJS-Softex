@@ -1,0 +1,3 @@
+Estou criando um projeto de Blog com NodeJS.
+Utilizei o npm para instalar o framework express, e as seguintes bibliotecas:
+Handlebars, Body-Parser e Mongoose.
