@@ -1,2 +1,4 @@
-A World Wide Web é uma aplicação onde documentos e/ou páginas são interligadas através de links. É através dela que, por meio de um navegador e através de URLs, acessamos os sites e as aplicações web.
-Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL. Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que, nada mais são, do que os sites que acessamos na Internet.
+A World Wide Web é uma aplicação onde documentos e/ou páginas são interligadas através de links. 
+É através dela que, por meio de um navegador e através de URLs, acessamos os sites e as aplicações web.
+Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL.
+Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que, nada mais são, do que os sites que acessamos na Internet.
