@@ -1,10 +1,5 @@
-const express = require('express')
-const app = express()
+var http = require('http')
 
-
-app.listen(8081, function(){
-    console.log('Servidor rodando na URL http://localhost:8081')
-});
-
-
-
+http.createServer(function(req, res){
+    res.end('Gerenciador')
+}).listen(8080)
