@@ -43,3 +43,8 @@ app.delete('/cars/delete/:id', (req, res) => {
 app.listen(8080, () => 
 console.log('Servidor iniciado na porta 8080')
 );
+
+/*
+ Utilizei as rotas com Express em diferentes cenários em relação às requisições GET, POST, PUT e DELETE, 
+ onde podemos utilizar para outros métodos/verbos HTTP possibilitando criar aplicações web e APIs de forma robusta e prática.
+*/
